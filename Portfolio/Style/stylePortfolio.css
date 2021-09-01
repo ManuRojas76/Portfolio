@@ -1,0 +1,39 @@
+
+body div h1{
+	text-align: center;
+	color: white;
+	padding-top: 10px;
+}
+body div h3{
+	text-align: center;
+	color: white;
+}
+#scrollspyHeading1{
+	background-attachment:fixed  ;
+}
+#scrollspyHeading2{
+	text-align: center;
+}
+#scrollspyHeading3{
+		text-align: center;
+}
+#scrollspyHeading4{
+	padding-left: 50px;
+}
+
+.nombre{
+	padding: 50px;
+}
+.cuadro{
+	padding: 50px;
+	border: solid 2px;
+	
+}
+.lenguajes{
+	
+	border: solid 2px;
+	color: white;
+}
+
+
+
